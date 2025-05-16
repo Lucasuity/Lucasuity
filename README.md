@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Developer who loves working with:
 
 ## 📫 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Lucasuity)
+[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/Lucasuity)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://google.com)
 
 ---
