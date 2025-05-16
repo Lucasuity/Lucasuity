@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Lucas!
 
 Welcome to my GitHub profile! I'm a Developer who loves working with:
-- 💻 **Languages**: C | C++ | Javascript | Typescript | Python | Java | Go
+- 💻 **Languages**: C | C++ | Lua | Javascript | Typescript | Python | Java | Go
 - 🛠️ **Tools**: VSCode | Git | Docker
 - 🌐 **Frameworks**: React | Node.js | Django
 
